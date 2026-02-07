@@ -4,3 +4,7 @@ numpy
 plotly
 opencv-python
 pillow
+mediapipe 
+deepface 
+torch 
+torchvision
